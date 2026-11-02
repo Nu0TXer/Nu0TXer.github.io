@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="320" viewBox="0 0 320 320" role="img" aria-label="Placeholder avatar with initials JH">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#eef4f9"/><stop offset="1" stop-color="#d9e6f1"/></linearGradient></defs>
+  <circle cx="160" cy="160" r="157" fill="url(#g)" stroke="#c6d5e2" stroke-width="4"/>
+  <circle cx="160" cy="160" r="132" fill="none" stroke="#bdcedf" stroke-width="2"/>
+  <text x="160" y="177" font-family="Arial, Helvetica, sans-serif" font-size="84" letter-spacing="-4" font-weight="600" fill="#34546f" text-anchor="middle">JH</text>
+</svg>
