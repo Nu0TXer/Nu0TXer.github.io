@@ -1,11 +1,14 @@
 # Personal Academic Homepage
 # Based on the Minimal theme by orderedlist, via pages-themes/minimal.
-title: "Nu0TXer | Academic Homepage"
+title: "Nu0TXer"
 
 description: >-
   🎓 Student
-  🔬 AI Safety & Security | Web Security |
-  AI-Driven Red Teaming | Agentic AI.
+
+  🔬 AI Safety & Security
+  Web Security
+  AI-Driven Red Teaming
+  Agentic AI
 
 url: "https://nu0txer.github.io"
 baseurl: ""
