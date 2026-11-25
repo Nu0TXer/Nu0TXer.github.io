@@ -13,6 +13,7 @@ description: >-
 url: "https://nu0txer.github.io"
 baseurl: ""
 lang: en
+description_zh: "🎓 广州大学本科生｜🔬 人工智能安全 · Web 安全 · 智能红队 · 多智能体系统"
 logo: /assets/images/avatar.svg
 show_downloads: false
 remote_theme: pages-themes/minimal@v0.2.0
